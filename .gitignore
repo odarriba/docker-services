@@ -91,3 +91,4 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,osx,visualstudiocode
 
 postgresql/*/data
+elasticsearch/*/data
